@@ -28,11 +28,7 @@
   gap: 20px;
   justify-content: center;
   margin: 100px 0;
-  padding: clamp(7.5rem, 7.079rem + 2.11vw, 8rem);
-
-  @media (width <= 375px) {
-    block-size: 327px;
-  }
+  padding: clamp(7.5rem, 7.079rem + 2.11vw, 8rem) 0;
 }
 
 .header__title {
