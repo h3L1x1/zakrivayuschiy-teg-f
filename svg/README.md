@@ -5,84 +5,84 @@
 
   <symbol id="save">
       <path d="M0.5,0H2.65V2.15H0.5Z" fill="currentcolor" />
-<path d="M0.5,2.15H2.65V4.31H0.5Z" fill="currentcolor" />
-<path d="M0.5,4.31H2.65V6.46H0.5Z" fill="currentcolor" />
-<path d="M0.5,6.46H2.65V8.62H0.5Z" fill="currentcolor" />
-<path d="M0.5,8.62H2.65V10.77H0.5Z" fill="currentcolor" />
-<path d="M0.5,10.77H2.65V12.92H0.5Z" fill="currentcolor" />
-<path d="M0.5,12.92H2.65V15.08H0.5Z" fill="currentcolor" />
-<path d="M0.5,15.08H2.65V17.23H0.5Z" fill="currentcolor" />
-<path d="M0.5,17.23H2.65V19.38H0.5Z" fill="currentcolor" />
-<path d="M0.5,19.38H2.65V21.54H0.5Z" fill="currentcolor" />
-<path d="M0.5,21.54H2.65V23.69H0.5Z" fill="currentcolor" />
-<path d="M0.5,23.69H2.65V25.85H0.5Z" fill="currentcolor" />
-<path d="M0.5,25.85H2.65V28H0.5Z" fill="currentcolor" />
-<path d="M24.19,0V2.15H22.04V0Z" fill="currentcolor" />
-<path d="M22.04,0V2.15H19.89V0Z" fill="currentcolor" />
-<path d="M19.88,0V2.15H17.73V0Z" fill="currentcolor" />
-<path d="M17.73,0V2.15H15.58L15.58,0Z" fill="currentcolor" />
-<path d="M15.58,0V2.15H13.42V0Z" fill="currentcolor" />
-<path d="M13.42,0L13.42,2.15H11.27V0Z" fill="currentcolor" />
-<path d="M11.27,0V2.15H9.12V0Z" fill="currentcolor" />
-<path d="M9.12,0V2.15H6.96L6.96,0Z" fill="currentcolor" />
-<path d="M6.96,0L6.96,2.15H4.81V0Z" fill="currentcolor" />
-<path d="M4.81,0V2.15H2.65V0Z" fill="currentcolor" />
-<path d="M26.35,2.15V4.31H24.19V2.15Z" fill="currentcolor" />
-<path d="M6.96,4.31L6.96,6.46H4.81L4.81,4.31Z" fill="currentcolor" />
-<path d="M6.96,2.15V4.31H4.81L4.81,2.15Z" fill="currentcolor" />
-<path d="M6.96,6.46L6.96,8.62H4.81V6.46Z" fill="currentcolor" />
-<path d="M22.04,4.31V6.46H19.89V4.31Z" fill="currentcolor" />
-<path d="M22.04,2.15V4.31H19.89V2.15Z" fill="currentcolor" />
-<path d="M22.04,6.46V8.62H19.89V6.46Z" fill="currentcolor" />
-<path d="M17.73,4.31V6.46H15.58V4.31Z" fill="currentcolor" />
-<path d="M17.73,2.15V4.31H15.58V2.15Z" fill="currentcolor" />
-<path d="M17.73,6.46V8.62H15.58V6.46Z" fill="currentcolor" />
-<path d="M22.04,8.62V10.77H19.89V8.62Z" fill="currentcolor" />
-<path d="M19.88,8.62V10.77H17.73V8.62Z" fill="currentcolor" />
-<path d="M17.73,8.62V10.77H15.58V8.62Z" fill="currentcolor" />
-<path d="M15.58,8.62V10.77H13.42V8.62Z" fill="currentcolor" />
-<path d="M13.42,8.62L13.42,10.77H11.27L11.27,8.62Z" fill="currentcolor" />
-<path d="M11.27,8.62V10.77H9.12V8.62Z" fill="currentcolor" />
-<path d="M9.12,8.62V10.77H6.96V8.62Z" fill="currentcolor" />
-<path d="M6.96,8.62V10.77H4.81V8.62Z" fill="currentcolor" />
-<path d="M24.19,15.08V17.23H22.04V15.08Z" fill="currentcolor" />
-<path d="M22.04,15.08V17.23H19.89V15.08Z" fill="currentcolor" />
-<path d="M19.88,15.08V17.23H17.73V15.08Z" fill="currentcolor" />
-<path d="M17.73,15.08V17.23H15.58V15.08Z" fill="currentcolor" />
-<path d="M15.58,15.08V17.23H13.42V15.08Z" fill="currentcolor" />
-<path d="M13.42,15.08L13.42,17.23H11.27V15.08Z" fill="currentcolor" />
-<path d="M11.27,15.08V17.23H9.12V15.08Z" fill="currentcolor" />
-<path d="M9.12,15.08V17.23H6.96V15.08Z" fill="currentcolor" />
-<path d="M6.96,15.08V17.23H4.81V15.08Z" fill="currentcolor" />
-<path d="M24.19,17.23V19.38H22.04V17.23Z" fill="currentcolor" />
-<path d="M6.96,17.23V19.38H4.81V17.23Z" fill="currentcolor" />
-<path d="M24.19,19.38V21.54H22.04V19.38Z" fill="currentcolor" />
-<path d="M6.96,19.38V21.54H4.81V19.38Z" fill="currentcolor" />
-<path d="M24.19,21.54V23.69H22.04V21.54Z" fill="currentcolor" />
-<path d="M6.96,21.54V23.69H4.81V21.54Z" fill="currentcolor" />
-<path d="M6.96,23.69V25.85H4.81V23.69Z" fill="currentcolor" />
-<path d="M24.19,23.69V25.85H22.04V23.69Z" fill="currentcolor" />
-<path d="M26.35,25.85V28H24.19V25.85Z" fill="currentcolor" />
-<path d="M24.19,25.85V28H22.04V25.85Z" fill="currentcolor" />
-<path d="M22.04,25.85V28H19.89V25.85Z" fill="currentcolor" />
-<path d="M19.88,25.85V28H17.73V25.85Z" fill="currentcolor" />
-<path d="M17.73,25.85V28H15.58V25.85Z" fill="currentcolor" />
-<path d="M15.58,25.85V28H13.42V25.85Z" fill="currentcolor" />
-<path d="M13.42,25.85V28H11.27V25.85Z" fill="currentcolor" />
-<path d="M11.27,25.85V28H9.12V25.85Z" fill="currentcolor" />
-<path d="M9.12,25.85V28H6.96V25.85Z" fill="currentcolor" />
-<path d="M6.96,25.85V28H4.81V25.85Z" fill="currentcolor" />
-<path d="M4.81,25.85V28H2.65V25.85Z" fill="currentcolor" />
-<path d="M28.5,28H26.35V25.85H28.5Z" fill="currentcolor" />
-<path d="M28.5,25.85H26.35V23.69H28.5Z" fill="currentcolor" />
-<path d="M28.5,23.69H26.35V21.54H28.5Z" fill="currentcolor" />
-<path d="M28.5,21.54H26.35V19.38H28.5Z" fill="currentcolor" />
-<path d="M28.5,19.38H26.35V17.23H28.5Z" fill="currentcolor" />
-<path d="M28.5,17.23H26.35V15.08H28.5Z" fill="currentcolor" />
-<path d="M28.5,15.08H26.35V12.92H28.5Z" fill="currentcolor" />
-<path d="M28.5,12.92H26.35L26.35,10.77H28.5Z" fill="currentcolor" />
-<path d="M28.5,10.77H26.35V8.62H28.5Z" fill="currentcolor" />
-<path d="M28.5,8.62H26.35V6.46H28.5Z" fill="currentcolor" />
-<path d="M28.5,6.46H26.35V4.31H28.5Z" fill="currentcolor" />
+      <path d="M0.5,2.15H2.65V4.31H0.5Z" fill="currentcolor" />
+      <path d="M0.5,4.31H2.65V6.46H0.5Z" fill="currentcolor" />
+      <path d="M0.5,6.46H2.65V8.62H0.5Z" fill="currentcolor" />
+      <path d="M0.5,8.62H2.65V10.77H0.5Z" fill="currentcolor" />
+      <path d="M0.5,10.77H2.65V12.92H0.5Z" fill="currentcolor" />
+      <path d="M0.5,12.92H2.65V15.08H0.5Z" fill="currentcolor" />
+      <path d="M0.5,15.08H2.65V17.23H0.5Z" fill="currentcolor" />
+      <path d="M0.5,17.23H2.65V19.38H0.5Z" fill="currentcolor" />
+      <path d="M0.5,19.38H2.65V21.54H0.5Z" fill="currentcolor" />
+      <path d="M0.5,21.54H2.65V23.69H0.5Z" fill="currentcolor" />
+      <path d="M0.5,23.69H2.65V25.85H0.5Z" fill="currentcolor" />
+      <path d="M0.5,25.85H2.65V28H0.5Z" fill="currentcolor" />
+      <path d="M24.19,0V2.15H22.04V0Z" fill="currentcolor" />
+      <path d="M22.04,0V2.15H19.89V0Z" fill="currentcolor" />
+      <path d="M19.88,0V2.15H17.73V0Z" fill="currentcolor" />
+      <path d="M17.73,0V2.15H15.58L15.58,0Z" fill="currentcolor" />
+      <path d="M15.58,0V2.15H13.42V0Z" fill="currentcolor" />
+      <path d="M13.42,0L13.42,2.15H11.27V0Z" fill="currentcolor" />
+      <path d="M11.27,0V2.15H9.12V0Z" fill="currentcolor" />
+      <path d="M9.12,0V2.15H6.96L6.96,0Z" fill="currentcolor" />
+      <path d="M6.96,0L6.96,2.15H4.81V0Z" fill="currentcolor" />
+      <path d="M4.81,0V2.15H2.65V0Z" fill="currentcolor" />
+      <path d="M26.35,2.15V4.31H24.19V2.15Z" fill="currentcolor" />
+      <path d="M6.96,4.31L6.96,6.46H4.81L4.81,4.31Z" fill="currentcolor" />
+      <path d="M6.96,2.15V4.31H4.81L4.81,2.15Z" fill="currentcolor" />
+      <path d="M6.96,6.46L6.96,8.62H4.81V6.46Z" fill="currentcolor" />
+      <path d="M22.04,4.31V6.46H19.89V4.31Z" fill="currentcolor" />
+      <path d="M22.04,2.15V4.31H19.89V2.15Z" fill="currentcolor" />
+      <path d="M22.04,6.46V8.62H19.89V6.46Z" fill="currentcolor" />
+      <path d="M17.73,4.31V6.46H15.58V4.31Z" fill="currentcolor" />
+      <path d="M17.73,2.15V4.31H15.58V2.15Z" fill="currentcolor" />
+      <path d="M17.73,6.46V8.62H15.58V6.46Z" fill="currentcolor" />
+      <path d="M22.04,8.62V10.77H19.89V8.62Z" fill="currentcolor" />
+      <path d="M19.88,8.62V10.77H17.73V8.62Z" fill="currentcolor" />
+      <path d="M17.73,8.62V10.77H15.58V8.62Z" fill="currentcolor" />
+      <path d="M15.58,8.62V10.77H13.42V8.62Z" fill="currentcolor" />
+      <path d="M13.42,8.62L13.42,10.77H11.27L11.27,8.62Z" fill="currentcolor" />
+      <path d="M11.27,8.62V10.77H9.12V8.62Z" fill="currentcolor" />
+      <path d="M9.12,8.62V10.77H6.96V8.62Z" fill="currentcolor" />
+      <path d="M6.96,8.62V10.77H4.81V8.62Z" fill="currentcolor" />
+      <path d="M24.19,15.08V17.23H22.04V15.08Z" fill="currentcolor" />
+      <path d="M22.04,15.08V17.23H19.89V15.08Z" fill="currentcolor" />
+      <path d="M19.88,15.08V17.23H17.73V15.08Z" fill="currentcolor" />
+      <path d="M17.73,15.08V17.23H15.58V15.08Z" fill="currentcolor" />
+      <path d="M15.58,15.08V17.23H13.42V15.08Z" fill="currentcolor" />
+      <path d="M13.42,15.08L13.42,17.23H11.27V15.08Z" fill="currentcolor" />
+      <path d="M11.27,15.08V17.23H9.12V15.08Z" fill="currentcolor" />
+      <path d="M9.12,15.08V17.23H6.96V15.08Z" fill="currentcolor" />
+      <path d="M6.96,15.08V17.23H4.81V15.08Z" fill="currentcolor" />
+      <path d="M24.19,17.23V19.38H22.04V17.23Z" fill="currentcolor" />
+      <path d="M6.96,17.23V19.38H4.81V17.23Z" fill="currentcolor" />
+      <path d="M24.19,19.38V21.54H22.04V19.38Z" fill="currentcolor" />
+      <path d="M6.96,19.38V21.54H4.81V19.38Z" fill="currentcolor" />
+      <path d="M24.19,21.54V23.69H22.04V21.54Z" fill="currentcolor" />
+      <path d="M6.96,21.54V23.69H4.81V21.54Z" fill="currentcolor" />
+      <path d="M6.96,23.69V25.85H4.81V23.69Z" fill="currentcolor" />
+      <path d="M24.19,23.69V25.85H22.04V23.69Z" fill="currentcolor" />
+      <path d="M26.35,25.85V28H24.19V25.85Z" fill="currentcolor" />
+      <path d="M24.19,25.85V28H22.04V25.85Z" fill="currentcolor" />
+      <path d="M22.04,25.85V28H19.89V25.85Z" fill="currentcolor" />
+      <path d="M19.88,25.85V28H17.73V25.85Z" fill="currentcolor" />
+      <path d="M17.73,25.85V28H15.58V25.85Z" fill="currentcolor" />
+      <path d="M15.58,25.85V28H13.42V25.85Z" fill="currentcolor" />
+      <path d="M13.42,25.85V28H11.27V25.85Z" fill="currentcolor" />
+      <path d="M11.27,25.85V28H9.12V25.85Z" fill="currentcolor" />
+      <path d="M9.12,25.85V28H6.96V25.85Z" fill="currentcolor" />
+      <path d="M6.96,25.85V28H4.81V25.85Z" fill="currentcolor" />
+      <path d="M4.81,25.85V28H2.65V25.85Z" fill="currentcolor" />
+      <path d="M28.5,28H26.35V25.85H28.5Z" fill="currentcolor" />
+      <path d="M28.5,25.85H26.35V23.69H28.5Z" fill="currentcolor" />
+      <path d="M28.5,23.69H26.35V21.54H28.5Z" fill="currentcolor" />
+      <path d="M28.5,21.54H26.35V19.38H28.5Z" fill="currentcolor" />
+      <path d="M28.5,19.38H26.35V17.23H28.5Z" fill="currentcolor" />
+      <path d="M28.5,17.23H26.35V15.08H28.5Z" fill="currentcolor" />
+      <path d="M28.5,15.08H26.35V12.92H28.5Z" fill="currentcolor" />
+      <path d="M28.5,12.92H26.35L26.35,10.77H28.5Z" fill="currentcolor" />
+      <path d="M28.5,10.77H26.35V8.62H28.5Z" fill="currentcolor" />
+      <path d="M28.5,8.62H26.35V6.46H28.5Z" fill="currentcolor" />
+      <path d="M28.5,6.46H26.35V4.31H28.5Z" fill="currentcolor" />
   </symbol>
 </svg>
