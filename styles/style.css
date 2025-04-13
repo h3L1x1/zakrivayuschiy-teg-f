@@ -190,16 +190,13 @@
 .card__like-button {
   background: transparent;
   border: var(--main-border);
-  padding: 12.5px 35px;
+  padding: 10px 17px;
   font-size: 14px;
   line-height: 90%;
   font-family: var(--accent-font);
   font-weight: var(--text-weight);
   cursor: pointer;
-}
-
-.card__like-button:active {
-  inline-size: 100px;
+  min-inline-size: 130px;
 }
 
 .buttons {
@@ -360,7 +357,6 @@
   fill: var(--animation-fill-color);
 }
 
-/* разобраться с кнопкой лайка и текстом в диалоговом окне*/
 
 
 
