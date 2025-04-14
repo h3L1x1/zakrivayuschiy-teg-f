@@ -13,10 +13,10 @@
         <link rel="stylesheet" href="./styles/style.css" />
         <link rel="stylesheet" href="./styles/animations.css" />
         <link rel="icon" href="./images/favicon.svg" />
-        <link rel="icon" type="image/png" href=".images/favicon-96x96.png" sizes="96x96" />
-        <link rel="icon" type="image/svg+xml" href=".images/favicon.svg" />
-        <link rel="shortcut icon" href=".images/favicon.ico" />
-        <link rel="apple-touch-icon" sizes="180x180" href=".images/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" href="./images/favicon-96x96.png" sizes="96x96" />
+        <link rel="icon" type="image/svg+xml" href="./images/favicon.svg" />
+        <link rel="shortcut icon" href="./images/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="./images/apple-touch-icon.png" />
     </head>
 
     <body class="page">
@@ -434,7 +434,7 @@
             </article>
             <div class="memory__section">
                 <button class="memory__title buttons" type="button" onclick="window['dialog-id'].showModal();" aria-controls="dialog-id">
-                    <svg class="card" width="21" height="21" viewBox="0 0 29 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <svg class="card" width="28" height="28" viewBox="0 0 29 28" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <use href="./svg/sprite.svg#save"></use>
                     </svg>
                     <span class="button__text">
@@ -445,13 +445,14 @@
                     <div class="dialog__flex">
                         <svg class="dialog__svg" width="39" height="39" viewBox="0 0 29 28" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <use href="./svg/sprite.svg#save"></use>
+                            
                         </svg>
                         <span class="popup__text">
                             Вставьте дискету, чтобы продолжить
                         </span>
                     </div>
                     <button class="close__popup buttons" type="button" onclick="window['dialog-id'].close();">
-                        Ок
+                       <span class="button__text" >Ок</span>
                     </button>
                 </dialog>
             </div>
